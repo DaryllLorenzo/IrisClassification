@@ -86,23 +86,41 @@ Model Performance:
 The model was trained for 800 epochs. The following results were achieved:
 
 Epoch: 0 | Loss: 1.1898 | Acc: 0.34% | Test_loss: 1.1517 | Test_acc: 0.30%
+
 Epoch: 10 | Loss: 1.0184 | Acc: 0.33% | Test_loss: 1.0027 | Test_acc: 0.37%
+
 Epoch: 20 | Loss: 0.9293 | Acc: 0.66% | Test_loss: 0.9143 | Test_acc: 0.70%
+
 Epoch: 30 | Loss: 0.8440 | Acc: 0.68% | Test_loss: 0.8298 | Test_acc: 0.70%
+
 Epoch: 40 | Loss: 0.7676 | Acc: 0.68% | Test_loss: 0.7547 | Test_acc: 0.70%
+
 Epoch: 50 | Loss: 0.7005 | Acc: 0.76% | Test_loss: 0.6888 | Test_acc: 0.77%
+
 Epoch: 60 | Loss: 0.6430 | Acc: 0.82% | Test_loss: 0.6327 | Test_acc: 0.80%
+
 Epoch: 70 | Loss: 0.5952 | Acc: 0.85% | Test_loss: 0.5863 | Test_acc: 0.80%
+
 Epoch: 80 | Loss: 0.5560 | Acc: 0.88% | Test_loss: 0.5483 | Test_acc: 0.87%
+
 Epoch: 90 | Loss: 0.5236 | Acc: 0.92% | Test_loss: 0.5169 | Test_acc: 0.87%
+
 Epoch: 100 | Loss: 0.4965 | Acc: 0.93% | Test_loss: 0.4909 | Test_acc: 0.87%
+
 Epoch: 110 | Loss: 0.4732 | Acc: 0.93% | Test_loss: 0.4686 | Test_acc: 0.93%
+
 Epoch: 120 | Loss: 0.4516 | Acc: 0.94% | Test_loss: 0.4476 | Test_acc: 0.93%
+
 Epoch: 130 | Loss: 0.4327 | Acc: 0.94% | Test_loss: 0.4302 | Test_acc: 0.93%
+
 Epoch: 140 | Loss: 0.4161 | Acc: 0.95% | Test_loss: 0.4146 | Test_acc: 0.97%
+
 Epoch: 150 | Loss: 0.4008 | Acc: 0.95% | Test_loss: 0.4004 | Test_acc: 0.97%
+
 ...
+
 Epoch: 780 | Loss: 0.1034 | Acc: 0.98% | Test_loss: 0.1349 | Test_acc: 1.00%
+
 Epoch: 790 | Loss: 0.1026 | Acc: 0.98% | Test_loss: 0.1341 | Test_acc: 1.00%
 
 The results indicate that the FFNN model achieves high accuracy on both the training and test sets. Notably, the model reaches >97% accuracy by epoch 200, and eventually achieves 100% accuracy on the test set.
