@@ -39,7 +39,43 @@ Model Performance:
 
 The model was trained for 800 epochs. The following results were achieved:
 
-Epoch: 790 | Loss: 0.1894 | Acc: 0.93% | Test_loss: 0.1749 | Test_acc: 0.90%
+Epoch: 0 | Loss:  1.0664 | Acc:  0.54% | Test_loss:  1.0495 | Test_acc:  0.67%
+
+Epoch: 10 | Loss:  0.9073 | Acc:  0.82% | Test_loss:  0.8931 | Test_acc:  0.93%
+
+Epoch: 20 | Loss:  0.8025 | Acc:  0.86% | Test_loss:  0.7841 | Test_acc:  0.93%
+
+Epoch: 30 | Loss:  0.7250 | Acc:  0.86% | Test_loss:  0.7010 | Test_acc:  0.93%
+
+Epoch: 40 | Loss:  0.6650 | Acc:  0.85% | Test_loss:  0.6356 | Test_acc:  0.93%
+
+Epoch: 50 | Loss:  0.6169 | Acc:  0.85% | Test_loss:  0.5829 | Test_acc:  0.93%
+
+Epoch: 60 | Loss:  0.5770 | Acc:  0.85% | Test_loss:  0.5391 | Test_acc:  0.90%
+
+Epoch: 70 | Loss:  0.5432 | Acc:  0.85% | Test_loss:  0.5023 | Test_acc:  0.93%
+
+Epoch: 80 | Loss:  0.5143 | Acc:  0.85% | Test_loss:  0.4708 | Test_acc:  0.93%
+
+Epoch: 90 | Loss:  0.4892 | Acc:  0.85% | Test_loss:  0.4437 | Test_acc:  0.93%
+
+Epoch: 100 | Loss:  0.4674 | Acc:  0.85% | Test_loss:  0.4201 | Test_acc:  0.93%
+
+Epoch: 110 | Loss:  0.4481 | Acc:  0.85% | Test_loss:  0.3992 | Test_acc:  0.93%
+
+Epoch: 120 | Loss:  0.4310 | Acc:  0.87% | Test_loss:  0.3806 | Test_acc:  0.93%
+
+Epoch: 130 | Loss:  0.4157 | Acc:  0.88% | Test_loss:  0.3640 | Test_acc:  0.93%
+
+Epoch: 140 | Loss:  0.4021 | Acc:  0.88% | Test_loss:  0.3490 | Test_acc:  0.93%
+
+Epoch: 150 | Loss:  0.3898 | Acc:  0.88% | Test_loss:  0.3354 | Test_acc:  0.93%
+
+...
+
+Epoch: 780 | Loss:  0.1842 | Acc:  0.92% | Test_loss:  0.1634 | Test_acc:  0.90%
+
+Epoch: 790 | Loss:  0.1834 | Acc:  0.92% | Test_loss:  0.1633 | Test_acc:  0.90%
 
 This indicates that the model achieves a high accuracy on both the training and test sets.
 
@@ -85,43 +121,43 @@ Model Performance:
 
 The model was trained for 800 epochs. The following results were achieved:
 
-Epoch: 0 | Loss: 1.1898 | Acc: 0.34% | Test_loss: 1.1517 | Test_acc: 0.30%
+Epoch: 0 | Loss:  1.1465 | Acc:  0.00% | Test_loss:  1.1170 | Test_acc:  0.03%
 
-Epoch: 10 | Loss: 1.0184 | Acc: 0.33% | Test_loss: 1.0027 | Test_acc: 0.37%
+Epoch: 10 | Loss:  1.0188 | Acc:  0.33% | Test_loss:  1.0057 | Test_acc:  0.37%
 
-Epoch: 20 | Loss: 0.9293 | Acc: 0.66% | Test_loss: 0.9143 | Test_acc: 0.70%
+Epoch: 20 | Loss:  0.9412 | Acc:  0.65% | Test_loss:  0.9280 | Test_acc:  0.70%
 
-Epoch: 30 | Loss: 0.8440 | Acc: 0.68% | Test_loss: 0.8298 | Test_acc: 0.70%
+Epoch: 30 | Loss:  0.8662 | Acc:  0.68% | Test_loss:  0.8532 | Test_acc:  0.73%
 
-Epoch: 40 | Loss: 0.7676 | Acc: 0.68% | Test_loss: 0.7547 | Test_acc: 0.70%
+Epoch: 40 | Loss:  0.7897 | Acc:  0.78% | Test_loss:  0.7779 | Test_acc:  0.77%
 
-Epoch: 50 | Loss: 0.7005 | Acc: 0.76% | Test_loss: 0.6888 | Test_acc: 0.77%
+Epoch: 50 | Loss:  0.7237 | Acc:  0.80% | Test_loss:  0.7125 | Test_acc:  0.80%
 
-Epoch: 60 | Loss: 0.6430 | Acc: 0.82% | Test_loss: 0.6327 | Test_acc: 0.80%
+Epoch: 60 | Loss:  0.6658 | Acc:  0.87% | Test_loss:  0.6555 | Test_acc:  0.83%
 
-Epoch: 70 | Loss: 0.5952 | Acc: 0.85% | Test_loss: 0.5863 | Test_acc: 0.80%
+Epoch: 70 | Loss:  0.6157 | Acc:  0.87% | Test_loss:  0.6065 | Test_acc:  0.87%
 
-Epoch: 80 | Loss: 0.5560 | Acc: 0.88% | Test_loss: 0.5483 | Test_acc: 0.87%
+Epoch: 80 | Loss:  0.5734 | Acc:  0.92% | Test_loss:  0.5652 | Test_acc:  0.87%
 
-Epoch: 90 | Loss: 0.5236 | Acc: 0.92% | Test_loss: 0.5169 | Test_acc: 0.87%
+Epoch: 90 | Loss:  0.5377 | Acc:  0.92% | Test_loss:  0.5306 | Test_acc:  0.93%
 
-Epoch: 100 | Loss: 0.4965 | Acc: 0.93% | Test_loss: 0.4909 | Test_acc: 0.87%
+Epoch: 100 | Loss:  0.5075 | Acc:  0.93% | Test_loss:  0.5015 | Test_acc:  0.93%
 
-Epoch: 110 | Loss: 0.4732 | Acc: 0.93% | Test_loss: 0.4686 | Test_acc: 0.93%
+Epoch: 110 | Loss:  0.4817 | Acc:  0.94% | Test_loss:  0.4768 | Test_acc:  0.93%
 
-Epoch: 120 | Loss: 0.4516 | Acc: 0.94% | Test_loss: 0.4476 | Test_acc: 0.93%
+Epoch: 120 | Loss:  0.4593 | Acc:  0.94% | Test_loss:  0.4552 | Test_acc:  0.97%
 
-Epoch: 130 | Loss: 0.4327 | Acc: 0.94% | Test_loss: 0.4302 | Test_acc: 0.93%
+Epoch: 130 | Loss:  0.4393 | Acc:  0.95% | Test_loss:  0.4362 | Test_acc:  0.97%
 
-Epoch: 140 | Loss: 0.4161 | Acc: 0.95% | Test_loss: 0.4146 | Test_acc: 0.97%
+Epoch: 140 | Loss:  0.4215 | Acc:  0.95% | Test_loss:  0.4193 | Test_acc:  0.97%
 
-Epoch: 150 | Loss: 0.4008 | Acc: 0.95% | Test_loss: 0.4004 | Test_acc: 0.97%
+Epoch: 150 | Loss:  0.4051 | Acc:  0.96% | Test_loss:  0.4039 | Test_acc:  0.97%
 
 ...
 
-Epoch: 780 | Loss: 0.1034 | Acc: 0.98% | Test_loss: 0.1349 | Test_acc: 1.00%
+Epoch: 780 | Loss:  0.1023 | Acc:  0.98% | Test_loss:  0.1328 | Test_acc:  1.00%
 
-Epoch: 790 | Loss: 0.1026 | Acc: 0.98% | Test_loss: 0.1341 | Test_acc: 1.00%
+Epoch: 790 | Loss:  0.1015 | Acc:  0.98% | Test_loss:  0.1320 | Test_acc:  1.00%
 
 The results indicate that the FFNN model achieves high accuracy on both the training and test sets. Notably, the model reaches >97% accuracy by epoch 200, and eventually achieves 100% accuracy on the test set.
 
